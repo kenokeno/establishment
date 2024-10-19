@@ -1,0 +1,11 @@
+{
+  "name": "establishment",
+  "displayName": "establishment",
+  "android:": {
+    "permissions": [
+      "CAMERA",
+      "ACCESS_COARSE_LOCATION",
+      "ACCESS_FINE_LOCATION"
+    ]
+  }
+}
